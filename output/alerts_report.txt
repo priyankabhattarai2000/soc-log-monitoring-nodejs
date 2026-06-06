@@ -1,0 +1,17 @@
+SOC ALERT REPORT
+=====================
+
+TYPE: BRUTE_FORCE
+IP: 10.0.0.5
+User: bob
+Attempts: 3
+Severity: HIGH
+Detected At: 2026-06-05 10:00:07
+---------------------
+TYPE: BRUTE_FORCE
+IP: 10.0.0.5
+User: bob
+Attempts: 4
+Severity: HIGH
+Detected At: 2026-06-05 10:00:08
+---------------------
